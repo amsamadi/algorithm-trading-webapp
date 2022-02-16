@@ -2,12 +2,15 @@
 
 Algorithm Trading web application project with Python, Django, PyQt5 and Javascript
 
+---
 
 ## Requirements
 
 * Windows 7/10
 * [Python 3.5.x 32bit](https://www.python.org/)
 * [Kiwoom Flash(번개) and Kiwoom Open API+ module](https://www2.kiwoom.com/nkw.templateFrameSet.do?m=m1408000000)
+
+---
 
 ## Setup Instructions
 
@@ -29,6 +32,8 @@ $ python manage.py runserver
 Then you can access by the following URL:
 http://127.0.0.1:8000/
 
+---
+
 ## Run in Docker
 
 # NOTE: this application only works on windows base image containers. so you should use docker desktop in -windows containers mode- in windows os.
@@ -40,6 +45,8 @@ http://127.0.0.1:8000/
 # this script build your application based on its Dockerfile and run docker-comppose.
 
 # Enjoy.
+
+---
 
 ## Setup Zipline (optional)
 
