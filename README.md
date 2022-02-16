@@ -44,9 +44,9 @@ for deploy on Docker host run deployment script:
 $ ./deploy.sh
 ```
 
-this script build your application based on its Dockerfile and run docker-comppose.
+this script build your application based on its Dockerfile and run with docker-comppose.
 
-#### Enjoy.
+##### Enjoy.
 
 ---
 
