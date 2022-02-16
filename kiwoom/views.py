@@ -4,7 +4,8 @@ import json
 from django.contrib import messages
 from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
-from django.core.urlresolvers import reverse
+#from django.core.urlresolvers import reverse   #this line removed 
+from django.urls import reverse   #this line added
 from pandas import DataFrame
 
 from .kiwoom import k_module
