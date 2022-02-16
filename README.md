@@ -46,7 +46,7 @@ $ ./deploy.sh
 
 this script build your application based on its Dockerfile and run docker-comppose.
 
-## Enjoy.
+#### Enjoy.
 
 ---
 
