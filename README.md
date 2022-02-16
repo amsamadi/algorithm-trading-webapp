@@ -29,6 +29,12 @@ $ python manage.py runserver
 Then you can access by the following URL:
 http://127.0.0.1:8000/
 
+## Run in Docker
+
+NOTE: this application only works on windows base image containers. so you should use docker desktop in <<windows containers mode>> in windows os.
+  
+images   
+
 
 ## Setup Zipline (optional)
 
