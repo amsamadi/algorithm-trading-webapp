@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# All rights reserved, Amjad Samadi.
+
 which docker-compose &> /dev/null
 
 if [ $? -ne 0 ]; then
