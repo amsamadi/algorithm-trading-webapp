@@ -19,4 +19,6 @@ you can access the web application with this URL: http://{YOUR-SYSTEM-IP}:5352
 
 EOL
 
+NOTE:
+
 echo "set 'respina.test.app' into /etc/hosts or set in your DNS Zone and bind with your IP Address for accessing the web application through domain name"
