@@ -36,13 +36,15 @@ http://127.0.0.1:8000/
 
 ## Run in Docker
 
-#### NOTE: this application only works on windows base image containers. so you should use docker desktop in -windows containers mode- in windows os.
+##### NOTE: this application only works on windows base image containers. so you should use docker desktop in -windows containers mode- in windows os.
   
-## for deploy on Docker host run deployment script:
+for deploy on Docker host run deployment script:
 
-### ./deploy.sh
+```
+$ ./deploy.sh
+```
 
-#### this script build your application based on its Dockerfile and run docker-comppose.
+this script build your application based on its Dockerfile and run docker-comppose.
 
 ## Enjoy.
 
