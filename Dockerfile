@@ -12,6 +12,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-ENTRYPOINT python manage.py runserver
+ENTRYPOINT ["python", "manage.py", "runserver"]
 
 EXPOSE 8000
